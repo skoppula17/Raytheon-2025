@@ -1,0 +1,13 @@
+
+# Python virtual environments
+venv/
+.env/
+.venv/
+pyqt_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
