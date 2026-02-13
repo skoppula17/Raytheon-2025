@@ -11,3 +11,9 @@ __pycache__/
 
 # OS files
 .DS_Store
+
+# Python virtual environments
+pyqt_env/
+.venv/
+venv/
+.env/
