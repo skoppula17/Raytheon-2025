@@ -1,0 +1,477 @@
+==> Downloading https://ghcr.io/v2/homebrew/core/qt/manifests/6.8.2
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/ee4795fc4510fb3ce072f4237166c91a276bacdbf5723c52f6efc4a75712f533--qt-6.8.2.bottle_manifest.json
+==> Fetching dependencies for qt: assimp, brotli, dbus, double-conversion, libpng, freetype, pcre2, python-packaging, mpdecimal, ca-certificates, openssl@3, readline, sqlite, xz, expat, python@3.13, libunistring, gettext, glib, fontconfig, xorgproto, libxau, libxdmcp, libxcb, libx11, libxext, libxrender, lzo, pixman, cairo, graphite2, icu4c@76, harfbuzz, hunspell, jpeg-turbo, jasper, libb2, lz4, zstd, libtiff, little-cms2, libmng, md4c, giflib and webp
+==> Downloading https://ghcr.io/v2/homebrew/core/assimp/manifests/5.4.3
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/af0d865168758e972c8142fe67f21b34927125a653600676d322554ee69b36f8--assimp-5.4.3.bottle_manifest.json
+==> Fetching assimp
+==> Downloading https://ghcr.io/v2/homebrew/core/assimp/blobs/sha256:6e0aead723a0156775a0e547d7c38da9893f0db854e32932e168f09b9f33df1d
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/aed1cbd8610cc47a3b9f5992c22b1fa7a6a95c73f06073b52332c40266267d3b--assimp--5.4.3.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/brotli/manifests/1.1.0-2
+==> Fetching brotli
+==> Downloading https://ghcr.io/v2/homebrew/core/brotli/blobs/sha256:e75e7d3e86aba0f1a48f59bab9d819dbdd52c22259fb893ff1e796ca4dc9be75
+==> Downloading https://ghcr.io/v2/homebrew/core/dbus/manifests/1.14.10
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/2dee97539c09d15349d9935f14c299bce3e52d11fd6d399a05a5190d0e7a1028--dbus-1.14.10.bottle_manifest.json
+==> Fetching dbus
+==> Downloading https://ghcr.io/v2/homebrew/core/dbus/blobs/sha256:f1435a361d873e109e1ca1d5ee6860afe9b1cfc2f8f34861ccbdd0072e1ee2c1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/c799d68ef387ec8c4e9d4eae8d595042205fb2704f8c171224c8c332baf67a3c--dbus--1.14.10.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/double-conversion/manifests/3.3.0
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/3f6c03611d69daaddcd2d467993bfc4e75cc54a55e2900fd5f383411c445a5b4--double-conversion-3.3.0.bottle_manifest.json
+==> Fetching double-conversion
+==> Downloading https://ghcr.io/v2/homebrew/core/double-conversion/blobs/sha256:5764a27a4392e020618a4a70c00d71f9a253419a55ae8c16dd965270eeb99cd1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/64334641b86bea5766d29e22d1456f8615f9ce37c9568663e1ba769716cab7a2--double-conversion--3.3.0.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/libpng/manifests/1.6.46
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/6d80bc92108aa9bc4068077c07ccbfad5fb22f8b3af5189e26d5467b33257976--libpng-1.6.46.bottle_manifest.json
+==> Fetching libpng
+==> Downloading https://ghcr.io/v2/homebrew/core/libpng/blobs/sha256:5a44a2e8483ea80c3c785d817571885b1fd69796d50c9fde219000db0ba3b0fc
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/00b22ca9161db3e30fd3fa06e7e9b238e2be2d226d0cdb75fd317b676ba1d9b1--libpng--1.6.46.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/freetype/manifests/2.13.3
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/4c4d14d574a7af9a5a0220cd5012c698bd87b75a3d5e39a6a6c34b4c411aab52--freetype-2.13.3.bottle_manifest.json
+==> Fetching freetype
+==> Downloading https://ghcr.io/v2/homebrew/core/freetype/blobs/sha256:939f90de3dd92919020832ba03d6617a0d2ec9a8e185f6a2c518f149c7b299f4
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/74eec62e9f292951d32047a5589ab60949d5ce0c8bc1608103785db9fc6b8036--freetype--2.13.3.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/pcre2/manifests/10.44
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/22ed791461c5bf400adde8c3b432c1230866aa1db3c5cb81e06a6ff21cac96ee--pcre2-10.44.bottle_manifest.json
+==> Fetching pcre2
+==> Downloading https://ghcr.io/v2/homebrew/core/pcre2/blobs/sha256:78fe8885f70cc1ec83eefd678e1dfc3b341aedf4b44132327da98300c5e04cdf
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/963f297da6f07bfa0a7ced88afef5e00081c9ceade61f60d5e26c308013e64a1--pcre2--10.44.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/python-packaging/manifests/24.2
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/a654ed84d67e434e714ac548959721dfcfc2297e1cb87be9237baee7632a2b76--python-packaging-24.2.bottle_manifest.json
+==> Fetching python-packaging
+==> Downloading https://ghcr.io/v2/homebrew/core/python-packaging/blobs/sha256:81d0db4704a8a4d53322164f860947baa0bae504373934327985c984b24de212
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/2ce5bd24826be4f109b675fb9602e4c0e5424b4962c8f45612434da96167dade--python-packaging--24.2.all.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/mpdecimal/manifests/4.0.0-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/7b63c3b34bee402290af49fac829a6682ab45ea5c9258b6fe03b590a03a4c4a9--mpdecimal-4.0.0-1.bottle_manifest.json
+==> Fetching mpdecimal
+==> Downloading https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:2965eec8a30f462b3bd6a8cc2756c1645e75f4399471594e434e36e886239e2e
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/f7a1a899d1404f0c9c837f61028928d0704d1cdd79728461141555850e51091c--mpdecimal--4.0.0.arm64_sonoma.bottle.1.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/ca-certificates/manifests/2024-12-31
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/c41a485689e1507291617fb1f0e2322a087064960638fd050663df867bf53928--ca-certificates-2024-12-31.bottle_manifest.json
+==> Fetching ca-certificates
+==> Downloading https://ghcr.io/v2/homebrew/core/ca-certificates/blobs/sha256:414ada64e60703cd4e9aa97f36e29c1a7ec73d60862b5219b8110731fcfd2cb7
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/c139574154be31eaa168519750ddbae9b45eb437f842c40c23ecbe906fb86a10--ca-certificates--2024-12-31.all.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/3/manifests/3.4.0
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/a8a169d38329b14f967d497d0ea77eee6dc5444175093fc7b26026b357e81736--openssl@3-3.4.0.bottle_manifest.json
+==> Fetching openssl@3
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/3/blobs/sha256:706b2f224c9519816d987e28ecfae9cfb41d99b728e237ef98fa1c0698d1f626
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/e6b9a3499de574de4a16b9db9b8c36dd341f53c81493dcdbe25113c80933ee0b--openssl@3--3.4.0.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/readline/manifests/8.2.13
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/aa1afa38997a2866d91c81fdda8b36d436cd4ea7a82aed07d13c83c56eb3460e--readline-8.2.13.bottle_manifest.json
+==> Fetching readline
+==> Downloading https://ghcr.io/v2/homebrew/core/readline/blobs/sha256:e46d4ff0c800dd35b9d5cef74e61ade54edc0834231f35c695af206bed9e3608
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/83111ac86e24adf736d55f6be8bf15929cea064dcb47859cedcad53389ef8478--readline--8.2.13.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/sqlite/manifests/3.48.0
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/7a63b9acdf9ca49e2b2210a457922c9e0b8953abfa8674fcb0e2ded21d0e2c53--sqlite-3.48.0.bottle_manifest.json
+==> Fetching sqlite
+==> Downloading https://ghcr.io/v2/homebrew/core/sqlite/blobs/sha256:88f8ceb923134e0f733355ddd5d8aeca284a6749b47bf42dab86de23854b8255
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/41d0bea46475d79c66e92140ccb7a69c4d0b91a9a17aee33a3db10b7a53d6ce2--sqlite--3.48.0.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/xz/manifests/5.6.4
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/d14e84095418591f4112922f1a834dbac6c7e4fdc334eae0aaff35e2b860cc5b--xz-5.6.4.bottle_manifest.json
+==> Fetching xz
+==> Downloading https://ghcr.io/v2/homebrew/core/xz/blobs/sha256:928cd470a16d10f9c8d444336314101e7b524f9aa5aeaa108569982c2bd83a63
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/6acf3f640badd8a50bd0de87b619e9c1bcb2834ec4fc434f411989cc7d8afb4f--xz--5.6.4.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/expat/manifests/2.6.4
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/700d5fdfe27a60378ec5801ebcbf598a7f6eeb78be73ddb517b205e6692b42d6--expat-2.6.4.bottle_manifest.json
+==> Fetching expat
+==> Downloading https://ghcr.io/v2/homebrew/core/expat/blobs/sha256:60a7805061d5eb779c8798b8fc3fa0c1cb3063e6786471d329687de38cfde52f
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/33aaeecf2c3c0510311094abc4393e903bddf53a89ea34919b33cb6496cc4c36--expat--2.6.4.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/python/3.13/manifests/3.13.2
+==> Fetching python@3.13
+==> Downloading https://ghcr.io/v2/homebrew/core/python/3.13/blobs/sha256:2b7e405b9fc4cde6ccd5ecd94f4fb511fa063e41d6334c663d6e42271c37da13
+==> Downloading https://ghcr.io/v2/homebrew/core/libunistring/manifests/1.3
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/a570da63bc1839c7e217f203abd54d4d873ebd6b99f6e88994d0e79e2ebe987c--libunistring-1.3.bottle_manifest.json
+==> Fetching libunistring
+==> Downloading https://ghcr.io/v2/homebrew/core/libunistring/blobs/sha256:38e44e319bfe11ec892bc6451d86b687d990ea01b4810b5d8ad1f794d531d82f
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/7c72788c6c505bfd73330e61b2330ad4ca86b280e377b4dd2e0457be6b6f87b9--libunistring--1.3.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/gettext/manifests/0.23.1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/a5b6ba6453cc31731ac67fb3d0075d98ab572a913f3e740b54a86d79906f360e--gettext-0.23.1.bottle_manifest.json
+==> Fetching gettext
+==> Downloading https://ghcr.io/v2/homebrew/core/gettext/blobs/sha256:f3b350830a3da3a44f3981838651accad39c14a3bd0ceac8d4a3c94eb7b24c02
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/fcd6058d3b70cff775a5efc046137fe46f8eb4839f029933fa2a9828b204d9ba--gettext--0.23.1.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/glib/manifests/2.82.4-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/48cf1dc2a2e975f6b45e31970e772c5b8aadbf7e5dd1b4543c353ae422f07e1c--glib-2.82.4-1.bottle_manifest.json
+==> Fetching glib
+==> Downloading https://ghcr.io/v2/homebrew/core/glib/blobs/sha256:26c4a5cd06dc075dabe28e94dba63742d881343d4fde244b29126086eefb3711
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/61f3a74615cbd794c618db4fbd66631af85efc91434c9eafc15dbd0716ed3c6b--glib--2.82.4.arm64_sonoma.bottle.1.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/fontconfig/manifests/2.16.0
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/6897fed6b85e0f537cb8774ec21346308111caaf26c136f33fdc95302d361fe7--fontconfig-2.16.0.bottle_manifest.json
+==> Fetching fontconfig
+==> Downloading https://ghcr.io/v2/homebrew/core/fontconfig/blobs/sha256:3ddfba863428fbb47be87178f2beaedd1a2c248724a3ce421c3f20bbecb035f1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/39c0b80659e70953b407f1d9eee0765ff9d8358e015854c98dd1d8e5aebb225a--fontconfig--2.16.0.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/xorgproto/manifests/2024.1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/d89d69340366d1d015e7214520f64081e2d82d7955fb28c6ea5f6539dcb610b2--xorgproto-2024.1.bottle_manifest.json
+==> Fetching xorgproto
+==> Downloading https://ghcr.io/v2/homebrew/core/xorgproto/blobs/sha256:3307601f0a03f6c51b640fb11064ef2c2264cc9c20de0604a255370edee3f7f4
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/4c1f6f68a1f0f8735608642fe9278104d2031d0cfcbd737c0ea5d69b85f6841f--xorgproto--2024.1.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/libxau/manifests/1.0.12
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/6335be202d59f96fdee2e4a02f93d8ee87dfcfdbaa4ed132b8fe8c3e3651e27c--libxau-1.0.12.bottle_manifest.json
+==> Fetching libxau
+==> Downloading https://ghcr.io/v2/homebrew/core/libxau/blobs/sha256:418c0c03e6422ba74ca2d59b38b6cd01103587ad859932b0bc3519a3f9e26e23
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/36ad4000a1c9222707c324ddd27ad28e43c24608806c4ff38ce6b663f3696fd7--libxau--1.0.12.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/libxdmcp/manifests/1.1.5
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/8713e53f73d0be64780dbea522b0ee07027e6cc7828ff1a4fa0a6596f14cfe25--libxdmcp-1.1.5.bottle_manifest.json
+==> Fetching libxdmcp
+==> Downloading https://ghcr.io/v2/homebrew/core/libxdmcp/blobs/sha256:789326aa88d1b6dbe5dd565e9e70e5031bf63fac39d22cd30d11c1dfc49ffbfb
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/ee3e5ab996272cb29ed0fa623c5bc9047aff67df163146559544926ad65f9bd4--libxdmcp--1.1.5.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/libxcb/manifests/1.17.0-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/a17e9d0e04a0013a5be592875b012c409023664b3df084b8051766331d213ff5--libxcb-1.17.0-1.bottle_manifest.json
+==> Fetching libxcb
+==> Downloading https://ghcr.io/v2/homebrew/core/libxcb/blobs/sha256:103f2b2f44b6dfd22bc936c9eb7f325b598374c549a9f56465b8cce80a2ea829
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/b03c794833bbf392509e29b7be1a2f3f38a0d91687d735130807772a2b2fe362--libxcb--1.17.0.arm64_sonoma.bottle.1.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/libx11/manifests/1.8.10
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/2e75e14e6bb3157688933738ae64e0dc86954ca8ef075737dda6b890d605d566--libx11-1.8.10.bottle_manifest.json
+==> Fetching libx11
+==> Downloading https://ghcr.io/v2/homebrew/core/libx11/blobs/sha256:5467d41501260e483586e9b05ed3137393f7faf7d49901c31bbeb0b25bd7caf5
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/d1eac234ab1239a186e3622c8806dcbf656f03dab02d8dcaef8781798d2e0dc7--libx11--1.8.10.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/libxext/manifests/1.3.6
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/fedb843acbfcf682fb451396914bfc096f9ea2748376d4c43ce2af7ce1b766b7--libxext-1.3.6.bottle_manifest.json
+==> Fetching libxext
+==> Downloading https://ghcr.io/v2/homebrew/core/libxext/blobs/sha256:50a9b29c594f9b93690466d66b52f2ac36461d956016b135a85d3dfbc883e336
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/48bc4f84c78d1cab8a23a688f2908411844c3ebf367b6b8d53c1d4c5c8f1e076--libxext--1.3.6.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/libxrender/manifests/0.9.12
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/152fb22ff88a23b62841dcfa14aac21018e1d736c072d732185f6139ef922e1c--libxrender-0.9.12.bottle_manifest.json
+==> Fetching libxrender
+==> Downloading https://ghcr.io/v2/homebrew/core/libxrender/blobs/sha256:a9e072e66b91797a41879d60271ac73a0b6a6e487a80ca054a44c209352e20ae
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/839b51863d2f39fba0c2063fcdd4b33a432e0b771b222df5ee2a46ca6517c76b--libxrender--0.9.12.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/lzo/manifests/2.10
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/d4aa5b0c239912c53bc857d1012c6b7feb4acb509618f5e100f95bf8521f08e7--lzo-2.10.bottle_manifest.json
+==> Fetching lzo
+==> Downloading https://ghcr.io/v2/homebrew/core/lzo/blobs/sha256:167749edd2052e4c577f27c79a41eb1cb4b79302b1e4bef1e4cfb29bd50aedd9
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/bff6de597e513ea77960d4a99c7f7ba7b8c0219ddfe2337b483a31cd69249bd4--lzo--2.10.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/pixman/manifests/0.44.2
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/710d020ae0348db5aff5d6dbdfd222dca000e630d64e8dcd5f8a8499e8131681--pixman-0.44.2.bottle_manifest.json
+==> Fetching pixman
+==> Downloading https://ghcr.io/v2/homebrew/core/pixman/blobs/sha256:9864683edbe6d854ac00331ede5a69e8fcd624dda02d27c7e240a0c6b9e73feb
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/fa6d3e70b5db01ed2279b37e6c56d67f5300357357f2847a91d573efc446ea6a--pixman--0.44.2.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/cairo/manifests/1.18.2
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/9d3ab10478bcceef6fbed69d1a4f387b5d996a592bb1ccbf33e560e3d2d5e103--cairo-1.18.2.bottle_manifest.json
+==> Fetching cairo
+==> Downloading https://ghcr.io/v2/homebrew/core/cairo/blobs/sha256:8d7d5bc22a123340ce7092b9bf1438ce8e959157e38b784226f48b616a76122a
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/3e2342b600bf5dad1a8a1b812969965fe67e1f11d1933956b9146922bddc61f2--cairo--1.18.2.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/graphite2/manifests/1.3.14
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/bbb4dd2ef1846301d1eb08053e19e11ca9c780f93f4d3b2d638fd94a9bf54a0c--graphite2-1.3.14.bottle_manifest.json
+==> Fetching graphite2
+==> Downloading https://ghcr.io/v2/homebrew/core/graphite2/blobs/sha256:4cdee055db9958e12662c53661fab627057d3553974d15b289e2955b439f4a9d
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/5d39f668b08c6fec5f362a00b9172cdb2612b9b50945e236bbff93abda225564--graphite2--1.3.14.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/icu4c/76/manifests/76.1_1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/c105f8980d3a6b0ff0253b47492e886520580406ee75fa52509cf5b251b4d633--icu4c@76-76.1_1.bottle_manifest.json
+==> Fetching icu4c@76
+==> Downloading https://ghcr.io/v2/homebrew/core/icu4c/76/blobs/sha256:38c00ad782ec16cf4c5b3439b15a38e11e8be3ffc5b029135cfff102e36bcfa3
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/487df0a6aabb1acb07491a72e5f0994c7bc0a6d20edd120e7d6ff46940c690cc--icu4c@76--76.1_1.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/harfbuzz/manifests/10.2.0
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/1575c3ecb3f0eddb4bb01b12e8c2e027bc1a795991afa8204c85b11331806ef4--harfbuzz-10.2.0.bottle_manifest.json
+==> Fetching harfbuzz
+==> Downloading https://ghcr.io/v2/homebrew/core/harfbuzz/blobs/sha256:7e45cdf77d0075ca8846705117fbd7d0d4347be7cb5e70d4217cb6370c544d30
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/95708d9e7737ced13c3eb762a92e46cef31e103af57a95820a4a7139d2567d42--harfbuzz--10.2.0.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/hunspell/manifests/1.7.2
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/4d645bbbc0d533556a1e9cb6d9c5f6aaeb087a44fe0f7454ceba4878104fecd2--hunspell-1.7.2.bottle_manifest.json
+==> Fetching hunspell
+==> Downloading https://ghcr.io/v2/homebrew/core/hunspell/blobs/sha256:7c5fef61ba38c643c6e29cdb3e835875011411edf1f421a7f0329e1723c6e397
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/1e9cd48ba26a405f749b6d412c3f36ff23383ff193e05e8a1201460cd438e157--hunspell--1.7.2.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/jpeg-turbo/manifests/3.1.0
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/6a56a664f24b0435ac129cb33185ae84d884e0f2357ac6fd37727dad9ac5c7d7--jpeg-turbo-3.1.0.bottle_manifest.json
+==> Fetching jpeg-turbo
+==> Downloading https://ghcr.io/v2/homebrew/core/jpeg-turbo/blobs/sha256:03d179652a6d36ece4f02bbbc091ff6e3bb1d9454ba4e7a160c8d2fbab83b7d6
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/5455e45d59c86daebb5f3f6eeb9c7a901f1d5fb2bf482565faad9641c65362d5--jpeg-turbo--3.1.0.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/jasper/manifests/4.2.4-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/c41c2c18d7b93335c84042e434a4ab3844acef5f56125779bb16c2d9f25461f0--jasper-4.2.4-1.bottle_manifest.json
+==> Fetching jasper
+==> Downloading https://ghcr.io/v2/homebrew/core/jasper/blobs/sha256:ee37209f33bc9a553d7d4cc6340d6cce02265699b6cfd3120b969897f7f3c66b
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/2a6a516fe1df7b031d33a18c6851a265657df7e9a962e572a56f7e85522a5a68--jasper--4.2.4.arm64_sonoma.bottle.1.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/libb2/manifests/0.98.1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/9bb23dca331f0d74876fa5c769113885b92af8a741a851cdfe99f6dfd420b12d--libb2-0.98.1.bottle_manifest.json
+==> Fetching libb2
+==> Downloading https://ghcr.io/v2/homebrew/core/libb2/blobs/sha256:52cef2730b3520e99f75f1478f2b953dc46e362a8dbf90f2c6a9028b47bbb8bd
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/7ec90eb4991722eebdf3511df6bfa9131db1aca85a370f3eb8ef54f9b57c1c8f--libb2--0.98.1.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/lz4/manifests/1.10.0-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/8e11e90eb21a06e0f199af9d80e011e3693c77dd353b2477579d95c8471a5802--lz4-1.10.0-1.bottle_manifest.json
+==> Fetching lz4
+==> Downloading https://ghcr.io/v2/homebrew/core/lz4/blobs/sha256:6590245dc4a919c46afa16366914cd4b5c0c4a8f4fb35a4f6ab89053f289ae5d
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/a55f61ddbdff069a1efe8a91355fe7541dc2dd53cddb6ab925c6af8d6b7de045--lz4--1.10.0.arm64_sonoma.bottle.1.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/zstd/manifests/1.5.6
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/29403e0df5404d8aeca0e750ac135ec9ef44fc5eeb6df69170ed602acabf0ffb--zstd-1.5.6.bottle_manifest.json
+==> Fetching zstd
+==> Downloading https://ghcr.io/v2/homebrew/core/zstd/blobs/sha256:2028141683f55bffcd0693b9e49eef1e3dabc1e184214cacb173ca9bd54dabc0
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/af6fd07ad9cd935975dd761af51c9baba7eb782dda7630d4abd399fa98e53578--zstd--1.5.6.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/libtiff/manifests/4.7.0-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/cc8add3c5369d6c22906554ebc395ebe89f1ac410112bd65bc6d286d4e02f210--libtiff-4.7.0-1.bottle_manifest.json
+==> Fetching libtiff
+==> Downloading https://ghcr.io/v2/homebrew/core/libtiff/blobs/sha256:7400825c55ab3f7aef5c0571d59bd62ffc509a5252784c08034df07995cb9e71
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/890ca14f85b983916bba44eaf7298d4d8d87dffcc99903714d5e079b44d80e9e--libtiff--4.7.0.arm64_sonoma.bottle.1.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/little-cms2/manifests/2.16-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/df638792747859d52f41b192ffa0dd5619d3cfe90938e37a0e07a7b89ba9ae69--little-cms2-2.16-1.bottle_manifest.json
+==> Fetching little-cms2
+==> Downloading https://ghcr.io/v2/homebrew/core/little-cms2/blobs/sha256:b607bb445fb9a11ee2fb8ff80748d6213adb5819cf0f2c680bf075cd2f192632
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/8105030782a53c1f0a9a4e1019ca6d81bf9a6dcb4f09b0832d9d7e6439982947--little-cms2--2.16.arm64_sonoma.bottle.1.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/libmng/manifests/2.0.3_1-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/4f8eabb37dcd8c951fb12065030467aa4a2eac62c1580a2b2af093d169333535--libmng-2.0.3_1-1.bottle_manifest.json
+==> Fetching libmng
+==> Downloading https://ghcr.io/v2/homebrew/core/libmng/blobs/sha256:6d30bcfb0460246fd86bd7f59dcf8b52b1e1fb3533ff8ff252a7cb23091ed9a9
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/ac4eb6d43180e1fff68106753c6fa3f061e4daf93f1d9bffa6ac1d50ecc3ce7e--libmng--2.0.3_1.arm64_sonoma.bottle.1.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/md4c/manifests/0.5.2
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/ac31308126fdae8184f0e062e2be5eb9463c9a626651fdd99d2539016ee91291--md4c-0.5.2.bottle_manifest.json
+==> Fetching md4c
+==> Downloading https://ghcr.io/v2/homebrew/core/md4c/blobs/sha256:5a535b9cec9b6155304abead938f5022fe7522b881dd6e12f6f45c9b4c0f0d3a
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/356b9bab37c02327fc4bb25a7b2681e9c5875e20b4743783e6a48e18bbdf9c36--md4c--0.5.2.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/giflib/manifests/5.2.2
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/283773c4d2db4fe867419d7eea6811a6417889d78fad8871041c07f49b22d2a1--giflib-5.2.2.bottle_manifest.json
+==> Fetching giflib
+==> Downloading https://ghcr.io/v2/homebrew/core/giflib/blobs/sha256:c6b05aecad00588daf749dbde717fb6a03ce83fb9723b15f5786e7b974ef4c02
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/61fceb894824b3f4fea0b2743a7a12dc86c8e2fba947ec622ed665147b0f4835--giflib--5.2.2.arm64_sonoma.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/webp/manifests/1.5.0
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/674b427392a0b30f8c95a3047f8d8b59cc729067bec5e51403e4bb87e009102a--webp-1.5.0.bottle_manifest.json
+==> Fetching webp
+==> Downloading https://ghcr.io/v2/homebrew/core/webp/blobs/sha256:121c8d526d62724c65ca82ad99a2edfa56bf7aeb6a69a231399e0faab96cad1f
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/97025e01bdd4631163e5a222fa6691c7d70d0c8863f99e99b3d97df978c5557d--webp--1.5.0.arm64_sonoma.bottle.tar.gz
+==> Fetching qt
+==> Downloading https://ghcr.io/v2/homebrew/core/qt/blobs/sha256:4867c64ebc6911f416b05fd54c95e22135c96b16834bcf020b4e83d8429d5cbd
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/d1169bdb72bae5cdaa0ef1369e635cfb514d2696a7629def0aa132130b26736c--qt--6.8.2.arm64_sonoma.bottle.tar.gz
+==> Installing dependencies for qt: assimp, brotli, dbus, double-conversion, libpng, freetype, pcre2, python-packaging, mpdecimal, ca-certificates, openssl@3, readline, sqlite, xz, expat, python@3.13, libunistring, gettext, glib, fontconfig, xorgproto, libxau, libxdmcp, libxcb, libx11, libxext, libxrender, lzo, pixman, cairo, graphite2, icu4c@76, harfbuzz, hunspell, jpeg-turbo, jasper, libb2, lz4, zstd, libtiff, little-cms2, libmng, md4c, giflib and webp
+==> Installing qt dependency: assimp
+==> Downloading https://ghcr.io/v2/homebrew/core/assimp/manifests/5.4.3
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/af0d865168758e972c8142fe67f21b34927125a653600676d322554ee69b36f8--assimp-5.4.3.bottle_manifest.json
+==> Pouring assimp--5.4.3.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/assimp/5.4.3: 104 files, 10.6MB
+==> Installing qt dependency: brotli
+==> Downloading https://ghcr.io/v2/homebrew/core/brotli/manifests/1.1.0-2
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/72b36368116298518fd66e638dfbe8cb541d8db2d33e279683bbdb4b79c73e0d--brotli-1.1.0-2.bottle_manifest.json
+==> Pouring brotli--1.1.0.arm64_sonoma.bottle.2.tar.gz
+🍺  /opt/homebrew/Cellar/brotli/1.1.0: 28 files, 1.7MB
+==> Installing qt dependency: dbus
+==> Downloading https://ghcr.io/v2/homebrew/core/dbus/manifests/1.14.10
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/2dee97539c09d15349d9935f14c299bce3e52d11fd6d399a05a5190d0e7a1028--dbus-1.14.10.bottle_manifest.json
+==> Pouring dbus--1.14.10.arm64_sonoma.bottle.tar.gz
+[34m==>[0m [1m/opt/homebrew/Cellar/dbus/1.14.10/bin/dbus-uuidgen --ensure=/opt/homebrew/va[0m
+🍺  /opt/homebrew/Cellar/dbus/1.14.10: 78 files, 2.6MB
+==> Installing qt dependency: double-conversion
+==> Downloading https://ghcr.io/v2/homebrew/core/double-conversion/manifests/3.3.0
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/3f6c03611d69daaddcd2d467993bfc4e75cc54a55e2900fd5f383411c445a5b4--double-conversion-3.3.0.bottle_manifest.json
+==> Pouring double-conversion--3.3.0.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/double-conversion/3.3.0: 27 files, 262.9KB
+==> Installing qt dependency: libpng
+==> Downloading https://ghcr.io/v2/homebrew/core/libpng/manifests/1.6.46
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/6d80bc92108aa9bc4068077c07ccbfad5fb22f8b3af5189e26d5467b33257976--libpng-1.6.46.bottle_manifest.json
+==> Pouring libpng--1.6.46.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libpng/1.6.46: 28 files, 1.4MB
+==> Installing qt dependency: freetype
+==> Downloading https://ghcr.io/v2/homebrew/core/freetype/manifests/2.13.3
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/4c4d14d574a7af9a5a0220cd5012c698bd87b75a3d5e39a6a6c34b4c411aab52--freetype-2.13.3.bottle_manifest.json
+==> Pouring freetype--2.13.3.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/freetype/2.13.3: 68 files, 2.5MB
+==> Installing qt dependency: pcre2
+==> Downloading https://ghcr.io/v2/homebrew/core/pcre2/manifests/10.44
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/22ed791461c5bf400adde8c3b432c1230866aa1db3c5cb81e06a6ff21cac96ee--pcre2-10.44.bottle_manifest.json
+==> Pouring pcre2--10.44.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/pcre2/10.44: 237 files, 6.3MB
+==> Installing qt dependency: python-packaging
+==> Downloading https://ghcr.io/v2/homebrew/core/python-packaging/manifests/24.2
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/a654ed84d67e434e714ac548959721dfcfc2297e1cb87be9237baee7632a2b76--python-packaging-24.2.bottle_manifest.json
+==> Pouring python-packaging--24.2.all.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/python-packaging/24.2: 56 files, 491.3KB
+==> Installing qt dependency: mpdecimal
+==> Downloading https://ghcr.io/v2/homebrew/core/mpdecimal/manifests/4.0.0-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/7b63c3b34bee402290af49fac829a6682ab45ea5c9258b6fe03b590a03a4c4a9--mpdecimal-4.0.0-1.bottle_manifest.json
+==> Pouring mpdecimal--4.0.0.arm64_sonoma.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/mpdecimal/4.0.0: 22 files, 641.2KB
+==> Installing qt dependency: ca-certificates
+==> Downloading https://ghcr.io/v2/homebrew/core/ca-certificates/manifests/2024-12-31
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/c41a485689e1507291617fb1f0e2322a087064960638fd050663df867bf53928--ca-certificates-2024-12-31.bottle_manifest.json
+==> Pouring ca-certificates--2024-12-31.all.bottle.tar.gz
+[34m==>[0m [1mRegenerating CA certificate bundle from keychain, this may take a while...[0m
+🍺  /opt/homebrew/Cellar/ca-certificates/2024-12-31: 4 files, 233.9KB
+==> Installing qt dependency: openssl@3
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/3/manifests/3.4.0
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/a8a169d38329b14f967d497d0ea77eee6dc5444175093fc7b26026b357e81736--openssl@3-3.4.0.bottle_manifest.json
+==> Pouring openssl@3--3.4.0.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/openssl@3/3.4.0: 7,236 files, 33.4MB
+==> Installing qt dependency: readline
+==> Downloading https://ghcr.io/v2/homebrew/core/readline/manifests/8.2.13
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/aa1afa38997a2866d91c81fdda8b36d436cd4ea7a82aed07d13c83c56eb3460e--readline-8.2.13.bottle_manifest.json
+==> Pouring readline--8.2.13.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/readline/8.2.13: 51 files, 1.7MB
+==> Installing qt dependency: sqlite
+==> Downloading https://ghcr.io/v2/homebrew/core/sqlite/manifests/3.48.0
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/7a63b9acdf9ca49e2b2210a457922c9e0b8953abfa8674fcb0e2ded21d0e2c53--sqlite-3.48.0.bottle_manifest.json
+==> Pouring sqlite--3.48.0.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/sqlite/3.48.0: 12 files, 4.9MB
+==> Installing qt dependency: xz
+==> Downloading https://ghcr.io/v2/homebrew/core/xz/manifests/5.6.4
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/d14e84095418591f4112922f1a834dbac6c7e4fdc334eae0aaff35e2b860cc5b--xz-5.6.4.bottle_manifest.json
+==> Pouring xz--5.6.4.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/xz/5.6.4: 96 files, 2.0MB
+==> Installing qt dependency: expat
+==> Downloading https://ghcr.io/v2/homebrew/core/expat/manifests/2.6.4
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/700d5fdfe27a60378ec5801ebcbf598a7f6eeb78be73ddb517b205e6692b42d6--expat-2.6.4.bottle_manifest.json
+==> Pouring expat--2.6.4.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/expat/2.6.4: 23 files, 671.3KB
+==> Installing qt dependency: python@3.13
+==> Downloading https://ghcr.io/v2/homebrew/core/python/3.13/manifests/3.13.2
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/ed88e7b3fd6fee101e6c569740db52ea7364a7e3d9092a35d8375795a39c2592--python@3.13-3.13.2.bottle_manifest.json
+==> Pouring python@3.13--3.13.2.arm64_sonoma.bottle.tar.gz
+[34m==>[0m [1m/opt/homebrew/Cellar/python@3.13/3.13.2/bin/python3.13 -Im ensurepip[0m
+[34m==>[0m [1m/opt/homebrew/Cellar/python@3.13/3.13.2/bin/python3.13 -Im pip install -v --[0m
+🍺  /opt/homebrew/Cellar/python@3.13/3.13.2: 3,274 files, 65.4MB
+==> Installing qt dependency: libunistring
+==> Downloading https://ghcr.io/v2/homebrew/core/libunistring/manifests/1.3
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/a570da63bc1839c7e217f203abd54d4d873ebd6b99f6e88994d0e79e2ebe987c--libunistring-1.3.bottle_manifest.json
+==> Pouring libunistring--1.3.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libunistring/1.3: 59 files, 5.4MB
+==> Installing qt dependency: gettext
+==> Downloading https://ghcr.io/v2/homebrew/core/gettext/manifests/0.23.1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/a5b6ba6453cc31731ac67fb3d0075d98ab572a913f3e740b54a86d79906f360e--gettext-0.23.1.bottle_manifest.json
+==> Pouring gettext--0.23.1.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/gettext/0.23.1: 2,052 files, 22.2MB
+==> Installing qt dependency: glib
+==> Downloading https://ghcr.io/v2/homebrew/core/glib/manifests/2.82.4-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/48cf1dc2a2e975f6b45e31970e772c5b8aadbf7e5dd1b4543c353ae422f07e1c--glib-2.82.4-1.bottle_manifest.json
+==> Pouring glib--2.82.4.arm64_sonoma.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/glib/2.82.4: 504 files, 36.3MB
+==> Installing qt dependency: fontconfig
+==> Downloading https://ghcr.io/v2/homebrew/core/fontconfig/manifests/2.16.0
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/6897fed6b85e0f537cb8774ec21346308111caaf26c136f33fdc95302d361fe7--fontconfig-2.16.0.bottle_manifest.json
+==> Pouring fontconfig--2.16.0.arm64_sonoma.bottle.tar.gz
+[34m==>[0m [1mRegenerating font cache, this may take a while[0m
+[34m==>[0m [1m/opt/homebrew/Cellar/fontconfig/2.16.0/bin/fc-cache -frv[0m
+🍺  /opt/homebrew/Cellar/fontconfig/2.16.0: 92 files, 1.5MB
+==> Installing qt dependency: xorgproto
+==> Downloading https://ghcr.io/v2/homebrew/core/xorgproto/manifests/2024.1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/d89d69340366d1d015e7214520f64081e2d82d7955fb28c6ea5f6539dcb610b2--xorgproto-2024.1.bottle_manifest.json
+==> Pouring xorgproto--2024.1.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/xorgproto/2024.1: 268 files, 3.9MB
+==> Installing qt dependency: libxau
+==> Downloading https://ghcr.io/v2/homebrew/core/libxau/manifests/1.0.12
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/6335be202d59f96fdee2e4a02f93d8ee87dfcfdbaa4ed132b8fe8c3e3651e27c--libxau-1.0.12.bottle_manifest.json
+==> Pouring libxau--1.0.12.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libxau/1.0.12: 21 files, 134.3KB
+==> Installing qt dependency: libxdmcp
+==> Downloading https://ghcr.io/v2/homebrew/core/libxdmcp/manifests/1.1.5
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/8713e53f73d0be64780dbea522b0ee07027e6cc7828ff1a4fa0a6596f14cfe25--libxdmcp-1.1.5.bottle_manifest.json
+==> Pouring libxdmcp--1.1.5.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libxdmcp/1.1.5: 12 files, 140.0KB
+==> Installing qt dependency: libxcb
+==> Downloading https://ghcr.io/v2/homebrew/core/libxcb/manifests/1.17.0-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/a17e9d0e04a0013a5be592875b012c409023664b3df084b8051766331d213ff5--libxcb-1.17.0-1.bottle_manifest.json
+==> Pouring libxcb--1.17.0.arm64_sonoma.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/libxcb/1.17.0: 2,498 files, 7.5MB
+==> Installing qt dependency: libx11
+==> Downloading https://ghcr.io/v2/homebrew/core/libx11/manifests/1.8.10
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/2e75e14e6bb3157688933738ae64e0dc86954ca8ef075737dda6b890d605d566--libx11-1.8.10.bottle_manifest.json
+==> Pouring libx11--1.8.10.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libx11/1.8.10: 1,043 files, 7MB
+==> Installing qt dependency: libxext
+==> Downloading https://ghcr.io/v2/homebrew/core/libxext/manifests/1.3.6
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/fedb843acbfcf682fb451396914bfc096f9ea2748376d4c43ce2af7ce1b766b7--libxext-1.3.6.bottle_manifest.json
+==> Pouring libxext--1.3.6.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libxext/1.3.6: 88 files, 458.4KB
+==> Installing qt dependency: libxrender
+==> Downloading https://ghcr.io/v2/homebrew/core/libxrender/manifests/0.9.12
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/152fb22ff88a23b62841dcfa14aac21018e1d736c072d732185f6139ef922e1c--libxrender-0.9.12.bottle_manifest.json
+==> Pouring libxrender--0.9.12.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libxrender/0.9.12: 13 files, 225.3KB
+==> Installing qt dependency: lzo
+==> Downloading https://ghcr.io/v2/homebrew/core/lzo/manifests/2.10
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/d4aa5b0c239912c53bc857d1012c6b7feb4acb509618f5e100f95bf8521f08e7--lzo-2.10.bottle_manifest.json
+==> Pouring lzo--2.10.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/lzo/2.10: 32 files, 568KB
+==> Installing qt dependency: pixman
+==> Downloading https://ghcr.io/v2/homebrew/core/pixman/manifests/0.44.2
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/710d020ae0348db5aff5d6dbdfd222dca000e630d64e8dcd5f8a8499e8131681--pixman-0.44.2.bottle_manifest.json
+==> Pouring pixman--0.44.2.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/pixman/0.44.2: 10 files, 655.6KB
+==> Installing qt dependency: cairo
+==> Downloading https://ghcr.io/v2/homebrew/core/cairo/manifests/1.18.2
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/9d3ab10478bcceef6fbed69d1a4f387b5d996a592bb1ccbf33e560e3d2d5e103--cairo-1.18.2.bottle_manifest.json
+==> Pouring cairo--1.18.2.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/cairo/1.18.2: 53 files, 2.2MB
+==> Installing qt dependency: graphite2
+==> Downloading https://ghcr.io/v2/homebrew/core/graphite2/manifests/1.3.14
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/bbb4dd2ef1846301d1eb08053e19e11ca9c780f93f4d3b2d638fd94a9bf54a0c--graphite2-1.3.14.bottle_manifest.json
+==> Pouring graphite2--1.3.14.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/graphite2/1.3.14: 19 files, 284.6KB
+==> Installing qt dependency: icu4c@76
+==> Downloading https://ghcr.io/v2/homebrew/core/icu4c/76/manifests/76.1_1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/c105f8980d3a6b0ff0253b47492e886520580406ee75fa52509cf5b251b4d633--icu4c@76-76.1_1.bottle_manifest.json
+==> Pouring icu4c@76--76.1_1.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/icu4c@76/76.1_1: 277 files, 81MB
+==> Installing qt dependency: harfbuzz
+==> Downloading https://ghcr.io/v2/homebrew/core/harfbuzz/manifests/10.2.0
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/1575c3ecb3f0eddb4bb01b12e8c2e027bc1a795991afa8204c85b11331806ef4--harfbuzz-10.2.0.bottle_manifest.json
+==> Pouring harfbuzz--10.2.0.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/harfbuzz/10.2.0: 77 files, 9.8MB
+==> Installing qt dependency: hunspell
+==> Downloading https://ghcr.io/v2/homebrew/core/hunspell/manifests/1.7.2
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/4d645bbbc0d533556a1e9cb6d9c5f6aaeb087a44fe0f7454ceba4878104fecd2--hunspell-1.7.2.bottle_manifest.json
+==> Pouring hunspell--1.7.2.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/hunspell/1.7.2: 87 files, 2.7MB
+==> Installing qt dependency: jpeg-turbo
+==> Downloading https://ghcr.io/v2/homebrew/core/jpeg-turbo/manifests/3.1.0
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/6a56a664f24b0435ac129cb33185ae84d884e0f2357ac6fd37727dad9ac5c7d7--jpeg-turbo-3.1.0.bottle_manifest.json
+==> Pouring jpeg-turbo--3.1.0.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/jpeg-turbo/3.1.0: 47 files, 3.5MB
+==> Installing qt dependency: jasper
+==> Downloading https://ghcr.io/v2/homebrew/core/jasper/manifests/4.2.4-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/c41c2c18d7b93335c84042e434a4ab3844acef5f56125779bb16c2d9f25461f0--jasper-4.2.4-1.bottle_manifest.json
+==> Pouring jasper--4.2.4.arm64_sonoma.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/jasper/4.2.4: 45 files, 1.6MB
+==> Installing qt dependency: libb2
+==> Downloading https://ghcr.io/v2/homebrew/core/libb2/manifests/0.98.1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/9bb23dca331f0d74876fa5c769113885b92af8a741a851cdfe99f6dfd420b12d--libb2-0.98.1.bottle_manifest.json
+==> Pouring libb2--0.98.1.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libb2/0.98.1: 9 files, 129KB
+==> Installing qt dependency: lz4
+==> Downloading https://ghcr.io/v2/homebrew/core/lz4/manifests/1.10.0-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/8e11e90eb21a06e0f199af9d80e011e3693c77dd353b2477579d95c8471a5802--lz4-1.10.0-1.bottle_manifest.json
+==> Pouring lz4--1.10.0.arm64_sonoma.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/lz4/1.10.0: 24 files, 714.2KB
+==> Installing qt dependency: zstd
+==> Downloading https://ghcr.io/v2/homebrew/core/zstd/manifests/1.5.6
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/29403e0df5404d8aeca0e750ac135ec9ef44fc5eeb6df69170ed602acabf0ffb--zstd-1.5.6.bottle_manifest.json
+==> Pouring zstd--1.5.6.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/zstd/1.5.6: 32 files, 2.2MB
+==> Installing qt dependency: libtiff
+==> Downloading https://ghcr.io/v2/homebrew/core/libtiff/manifests/4.7.0-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/cc8add3c5369d6c22906554ebc395ebe89f1ac410112bd65bc6d286d4e02f210--libtiff-4.7.0-1.bottle_manifest.json
+==> Pouring libtiff--4.7.0.arm64_sonoma.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/libtiff/4.7.0: 486 files, 8.4MB
+==> Installing qt dependency: little-cms2
+==> Downloading https://ghcr.io/v2/homebrew/core/little-cms2/manifests/2.16-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/df638792747859d52f41b192ffa0dd5619d3cfe90938e37a0e07a7b89ba9ae69--little-cms2-2.16-1.bottle_manifest.json
+==> Pouring little-cms2--2.16.arm64_sonoma.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/little-cms2/2.16: 23 files, 1.4MB
+==> Installing qt dependency: libmng
+==> Downloading https://ghcr.io/v2/homebrew/core/libmng/manifests/2.0.3_1-1
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/4f8eabb37dcd8c951fb12065030467aa4a2eac62c1580a2b2af093d169333535--libmng-2.0.3_1-1.bottle_manifest.json
+==> Pouring libmng--2.0.3_1.arm64_sonoma.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/libmng/2.0.3_1: 17 files, 1.1MB
+==> Installing qt dependency: md4c
+==> Downloading https://ghcr.io/v2/homebrew/core/md4c/manifests/0.5.2
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/ac31308126fdae8184f0e062e2be5eb9463c9a626651fdd99d2539016ee91291--md4c-0.5.2.bottle_manifest.json
+==> Pouring md4c--0.5.2.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/md4c/0.5.2: 20 files, 302KB
+==> Installing qt dependency: giflib
+==> Downloading https://ghcr.io/v2/homebrew/core/giflib/manifests/5.2.2
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/283773c4d2db4fe867419d7eea6811a6417889d78fad8871041c07f49b22d2a1--giflib-5.2.2.bottle_manifest.json
+==> Pouring giflib--5.2.2.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/giflib/5.2.2: 20 files, 547KB
+==> Installing qt dependency: webp
+==> Downloading https://ghcr.io/v2/homebrew/core/webp/manifests/1.5.0
+Already downloaded: /Users/spoorthikoppula/Library/Caches/Homebrew/downloads/674b427392a0b30f8c95a3047f8d8b59cc729067bec5e51403e4bb87e009102a--webp-1.5.0.bottle_manifest.json
+==> Pouring webp--1.5.0.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/webp/1.5.0: 64 files, 2.5MB
+==> Installing qt
+==> Pouring qt--6.8.2.arm64_sonoma.bottle.tar.gz
+==> Caveats
+You can add Homebrew's Qt to QtCreator's "Qt Versions" in:
+  Preferences > Qt Versions > Link with Qt...
+pressing "Choose..." and selecting as the Qt installation path:
+  /opt/homebrew
+==> Summary
+🍺  /opt/homebrew/Cellar/qt/6.8.2: 16,995 files, 727.9MB
+==> Running `brew cleanup qt`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+==> Caveats
+==> qt
+You can add Homebrew's Qt to QtCreator's "Qt Versions" in:
+  Preferences > Qt Versions > Link with Qt...
+pressing "Choose..." and selecting as the Qt installation path:
+  /opt/homebrew

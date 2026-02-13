@@ -1,0 +1,46 @@
+import pathlib
+from yolov5.models.yolo import DetectionModel  # Import YOLOv5 model class
+
+# ✅ Fix: Allow loading YOLOv5 DetectionModel
+torch.serialization.add_safe_globals([DetectionModel])
+
+# Force PyTorch to treat WindowsPath as PosixPath (Mac/Linux)
+pathlib.WindowsPath = pathlib.PosixPath
+
+# Define model paths
+model_path = "/Users/spoorthikoppula/Desktop/Raytheon/Model/best.pt"
+new_model_path = "/Users/spoorthikoppula/Desktop/Raytheon/Model/best_fixed.pt"
+
+try:
+    print("Loading YOLOv5 model...")
+    model = torch.load(model_path, map_location="cpu", weights_only=False)  # ✅ Allow full model loading
+    print("✅ Model loaded successfully!")
+
+    print("Saving converted model to PyTorch format...")
+    torch.save(model, new_model_path)  # ✅ Re-save the model
+    print(f"✅ Model saved at: {new_model_path}")
+
+except Exception as e:
+    print(f"❌ Error: {e}")
+import torch
+import pathlib
+
+# Force PyTorch to treat WindowsPath as PosixPath (Mac/Linux)
+pathlib.WindowsPath = pathlib.PosixPath
+
+# Define model paths
+model_path = "/Users/spoorthikoppula/Desktop/Raytheon/Model/best.pt"
+new_model_path = "/Users/spoorthikoppula/Desktop/Raytheon/Model/best_fixed.pt"
+
+try:
+    print("Loading YOLOv5 model...")
+    model = torch.load(model_path, map_location="cpu")  # ✅ Load with CPU compatibility
+    print("✅ Model loaded successfully!")
+
+    print("Saving converted model to PyTorch format...")
+    torch.save(model, new_model_path)  # ✅ Re-save the model
+    print(f"✅ Model saved at: {new_model_path}")
+
+except Exception as e:
+    print(f"❌ Error: {e}")
+
